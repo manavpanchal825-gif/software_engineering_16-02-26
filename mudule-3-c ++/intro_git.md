@@ -10,3 +10,11 @@
 2. https://github.com/
 3. download git software to upload data via commands
 5. all github commands write on gitbase... 
+
+**all commands**
+1. git init
+2. git add .
+3. git commit -m"16-02-2026 data uploaded"
+4. git add remote origin 
+   https://github.com/manavpanchal825-gif/software_engineering_16-02-26.git
+5. git push -u origin master
